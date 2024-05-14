@@ -1,0 +1,34 @@
+ header{
+  letter-spacing: 1.2em;
+  text-shadow: 3px rgb(115, 115, 114);
+  text-decoration: underline;
+  font-size: 40px;
+  text-align: center;
+ }
+
+ .text-bold1{
+  color:skyblue;
+ }
+
+ .text-bold2{
+  color:rgb(255, 192, 203);
+ }
+
+
+ body{
+  font-family:"Arial", "Meiryo", sans-serif ;
+  font-size:20px;
+  text-align: center; 
+ }
+
+.first-heading {
+  color:rgb(255, 192, 203);
+ }
+
+.second-heading {
+  color:skyblue;
+ }
+
+ #paragraph{
+    font-weight: bold;
+  }
